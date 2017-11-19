@@ -10,6 +10,7 @@
  */
 
 #include <stdio.h>
+#include "index_interface.h"
 
 #define MAGIC * (unsigned *)
 
